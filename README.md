@@ -1,2 +1,0 @@
-# nutrioxai-privacy
-nutrioxai-privacy
